@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import importlib  
-# cv2 = importlib.import_module("opencv-python-headless")
+cv2 = importlib.import_module("opencv-python-headless")
 #from PIL import Image
 #import io 
 import keras
