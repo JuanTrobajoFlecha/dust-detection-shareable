@@ -6,7 +6,7 @@ import numpy as np
 #from PIL import Image
 #import io 
 import keras
-import opencv-python
+import cv2
 
 from keras.preprocessing.image import ImageDataGenerator
 #from keras.utils import load_img, img_to_array
