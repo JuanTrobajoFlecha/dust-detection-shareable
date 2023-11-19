@@ -1,11 +1,12 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import importlib  
-cv2 = importlib.import_module("opencv-python-headless")
+# import importlib  
+# cv2 = importlib.import_module("opencv-python-headless")
 #from PIL import Image
 #import io 
 import keras
+import opencv-python
 
 from keras.preprocessing.image import ImageDataGenerator
 #from keras.utils import load_img, img_to_array
