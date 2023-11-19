@@ -17,7 +17,6 @@ from keras.models import Sequential, load_model, Model
 #from keras import regularizers
 
 from keras.applications.resnet import ResNet50, preprocess_input
-import cv2
 
 
 
